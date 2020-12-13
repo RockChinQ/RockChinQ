@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A high school student in Guilin city in China.
+A Chinese high school student in Guilin,桂林.  
+I'm not a native English speaker, so I have some grammatical mistakes.
