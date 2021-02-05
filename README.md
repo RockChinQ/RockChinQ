@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 A Chinese high school student in Guilin,桂林.  
-I'm not a native English speaker, so I have some grammatical mistakes.
+I'm not a native English speaker, so I may have some grammatical mistakes.
