@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A Chinese high school student in Guilin,桂林.  
+A freshman of TJUT.  
+From Guilin,Guangxi Province.  
+Anarchism,Open source,Digital currency
+
 I'm not a native English speaker, so I may have some grammatical mistakes.
