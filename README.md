@@ -18,4 +18,4 @@ A freshman of TJUT.
 From Guilin,Guangxi Province.  
 Anarchism,Open source,Digital currency
 
-I'm not a native English speaker, so I may have some grammatical mistakes.
+I'm not a native English speaker, so I may make some grammatical mistakes.
