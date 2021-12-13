@@ -19,3 +19,5 @@ From Guilin,Guangxi Province.
 Anarchism,Open source,Digital currency
 
 I'm not a native English speaker, so I may make some grammatical mistakes.
+
+[![RockChinQ's github stats](https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
