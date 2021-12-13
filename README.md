@@ -18,6 +18,8 @@ Homeland:People's Republic of China.
 From Guilin,Guangxi Province.  
 Anarchism/Open source/Digital currency  
 
+[![RockChinQ's github stats](https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Stories
 Born in 2002,following my father(he loves computer programming when he was young),I fell in love with computer world at my childhood.  
 In the 00's,I sat on his leg seeing he using computer,sometimes click the little lion(of the Rising anti-virus soft) on screen,feeling so funny.  
@@ -34,6 +36,6 @@ And I made it.
 After about one and a half years,I can now use Java more skilled.  
 
 Knowledge is a circle,you know that you know so little only when you knew more.  
+
 So I'm still learning.  
 
-[![RockChinQ's github stats](https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
