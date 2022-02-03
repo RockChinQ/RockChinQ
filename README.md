@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Homeland:People's Republic of China.
+Mainland China.    
 From Guilin,Guangxi Province.  
 Anarchism/Open source/Digital currency  
 <!-- 
