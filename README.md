@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **RockChinQ/RockChinQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,7 +40,7 @@ Anarchism/Open source/Digital currency
 <p align="center"> <a href="https://github.com/RockChinQ"><img src="https://github-profile-trophy.vercel.app/?username=RockChinQ&margin-w=5&theme=radical" alt="RockChinQ" /></a> </p>
 
 
-## Stories
+<h2>🐾 &nbsp;Stories </h2>
 Born in 2002,following my father(he loves computer programming when he was young),I fell in love with computer world at my childhood.  
 In the 00's,I sat on his leg seeing he using computer,sometimes click the little lion(of the Rising anti-virus soft) on screen,feeling so funny.  
 Started playing Minecraft at about four grade of primary school,and tried to use Blocklauncher to load plugins for Minecraft,then tried to write plugins 1 year later.  
