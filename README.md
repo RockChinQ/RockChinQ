@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 Homeland:People's Republic of China.
 From Guilin,Guangxi Province.  
 Anarchism/Open source/Digital currency  
-
-[![RockChinQ's github stats](https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+[![RockChinQ's github stats](https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
