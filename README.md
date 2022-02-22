@@ -26,7 +26,7 @@ Anarchism/Open source/Digital currency
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RockChinQ&theme=github_dark" alt="RockChinQ" align = "center"/></p>
  -->
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=RockChinQ&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="RockChinQ" align = "center"/>
+<!-- <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=RockChinQ&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="RockChinQ" align = "center"/> -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RockChinQ&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="RockChinQ" align = "center"/></p>
 
  <summary><b>🔥 Github Streaks</b></summary>
