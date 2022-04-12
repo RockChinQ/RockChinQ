@@ -31,9 +31,6 @@ Anarchism/Open source/Digital currency
 
 <!--  <summary><b>🔥 Github Streaks</b></summary> -->
  
- <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RockChinQ" alt="RockChinQ" align = "center"/></p>
-</p>
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RockChinQ&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="RockChinQ" /></p> -->
 <!-- 
 <summary><b>📊 Github Contribution Graph</b></summary>
@@ -42,6 +39,12 @@ Anarchism/Open source/Digital currency
 <details>    --> 
 <!--  <summary><b>🏆 Github Achievements</b></summary> -->
 <p align="center"> <a href="https://github.com/RockChinQ"><img src="https://github-profile-trophy.vercel.app/?username=RockChinQ&margin-w=5&theme=radical" alt="RockChinQ" /></a> </p>
+
+<h2>ℹ️ &nbsp;Wakatime Stat</h2>
+
+ <p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RockChinQ" alt="RockChinQ" align = "center"/></p>
+</p>
 
 
 <h2>🐾 &nbsp;@_@ </h2>
