@@ -32,7 +32,8 @@ Anarchism/Open source/Digital currency
 <!--  <summary><b>🔥 Github Streaks</b></summary> -->
  
  <p align="center">
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RockChinQ)](https://github.com/anuraghazra/github-readme-stats)</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RockChinQ" alt="RockChinQ" align = "center"/></p>
+</p>
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RockChinQ&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="RockChinQ" /></p> -->
 <!-- 
 <summary><b>📊 Github Contribution Graph</b></summary>
