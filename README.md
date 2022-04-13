@@ -47,5 +47,5 @@ Anarchism/Open source/Digital currency
 </p> -->
 
 
-<h2>🐾 &nbsp;@_@ </h2>
+<h2>🐾 &nbsp;Bio </h2>
 Self-taught programmer;a student of TianJin University of Technology.
