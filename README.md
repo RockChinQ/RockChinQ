@@ -40,11 +40,11 @@ Anarchism/Open source/Digital currency
 <!--  <summary><b>🏆 Github Achievements</b></summary> -->
 <p align="center"> <a href="https://github.com/RockChinQ"><img src="https://github-profile-trophy.vercel.app/?username=RockChinQ&margin-w=5&theme=radical" alt="RockChinQ" /></a> </p>
 
-<h2>ℹ️ &nbsp;Wakatime Stat</h2>
+<!-- <h2>ℹ️ &nbsp;Wakatime Stat</h2>
 
  <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RockChinQ" alt="RockChinQ" align = "center"/></p>
-</p>
+</p> -->
 
 
 <h2>🐾 &nbsp;@_@ </h2>
