@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 Mainland China.    
 From Guilin,Guangxi Province.  
 Anarchism/Open source/Digital currency  
+A student of TianJin University of Technology
 <!-- 
 [![RockChinQ's github stats](https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -46,6 +47,3 @@ Anarchism/Open source/Digital currency
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RockChinQ" alt="RockChinQ" align = "center"/></p>
 </p> -->
 
-
-<h2>🐾 &nbsp;Bio </h2>
-student of TianJin University of Technology.
