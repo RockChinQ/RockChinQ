@@ -21,7 +21,7 @@ A student of TianJin University of Technology
 <!-- 
 [![RockChinQ's github stats](https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<h2>ℹ️ &nbsp;Github Info</h2>
+# ℹ️ Github Info
 <!-- 	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RockChinQ&theme=github_dark" alt="RockChinQ" align = "center"/></p>
@@ -47,3 +47,39 @@ A student of TianJin University of Technology
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RockChinQ" alt="RockChinQ" align = "center"/></p>
 </p> -->
 
+# 📚Stacks
+
+that used in these projects
+
+## Java
+
+### Swing
+
+- [GhostJ](https://github.com/RockChinQ/GhostJ) Remote control Platform based on Socket.
+- [AutoPVZGarden](https://github.com/RockChinQ/AutoPVZGarden) Automatically plants flowers in the garden of PVZ to make much money in a short time.
+- [TicTacToe](https://github.com/RockChinQ/TicTacToe) Tic Tac Toe AI
+- [TetrisEngine](https://github.com/RockChinQ/TetrisEngine) Tetris!
+
+### Other
+
+- [RFTX2](https://github.com/RockChinQ/RFTX2) A lib that implements two-way file transfer between server and client based on Socket
+- [AutoXmrig](https://github.com/RockChinQ/AutoXmrig) Automatically deploy XMRIG then make it work
+- [MCSManagerAPI](https://github.com/idoknow/MCSManagerAPI) Pwn Minecraft's protocol
+
+## Go
+
+- [OPQBot](https://github.com/RockChinQ/OPQBot) (Contribute) yet another QQ bot
+- [ghogo](https://github.com/RockChinQ/ghogo) Remote control implementation written in Go
+- [gocryptobot](https://github.com/RockChinQ/gocryptobot) Crypto currency trading bot
+- [GhostPioneer](https://github.com/RockChinQ/GhostPioneer) An intelligent launcher for GhostJ
+- [esn-daemon](https://github.com/EasyNotification/esn-daemon) A notification pushing platform for developers to build up a light-weight notification pushing system for their own software projects
+
+## Python
+
+- [OpenCamwall](https://github.com/RockChinQ/OpenCamwall) QQ空间校园墙自动化管理平台后端（收稿、发说说、数据分析...)
+- [python-classwork](https://github.com/RockChinQ/python-classwork) 上课作业
+- [https://github.com/RockChinQ/okexAPI](https://github.com/RockChinQ/okexAPI) Crypto currency trading bot based on SAR rate
+
+## Web
+
+- [stumap](stumap) 桂林中学21届毕业生录取去向图网站源码
