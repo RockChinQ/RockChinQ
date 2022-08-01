@@ -78,8 +78,14 @@ that used in these projects
 
 - [OpenCamwall](https://github.com/RockChinQ/OpenCamwall) QQ空间校园墙自动化管理平台后端（收稿、发说说、数据分析...)
 - [python-classwork](https://github.com/RockChinQ/python-classwork) 上课作业
-- [https://github.com/RockChinQ/okexAPI](https://github.com/RockChinQ/okexAPI) Crypto currency trading bot based on SAR rate
+- [okexAPI](https://github.com/RockChinQ/okexAPI) Crypto currency trading bot based on SAR rate
 
 ## Web
 
-- [stumap](stumap) 桂林中学21届毕业生录取去向图网站源码
+### Native
+
+- [stumap](https://github.com/idoknow/stumap) 桂林中学21届毕业生录取去向图网站源码
+
+### Vue
+
+- [stumapV2](https://stumap.idoknow.top)桂林中学毕业生去向图网站
