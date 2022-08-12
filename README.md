@@ -68,7 +68,7 @@ that used in these projects
 
 ## Go
 
-- [OPQBot](https://github.com/RockChinQ/OPQBot) (Contribute) yet another QQ bot
+- [OPQBot](https://github.com/opq-osc/OPQBot) (Contribute) yet another QQ bot
 - [ghogo](https://github.com/RockChinQ/ghogo) Remote control implementation written in Go
 - [gocryptobot](https://github.com/RockChinQ/gocryptobot) Crypto currency trading bot
 - [GhostPioneer](https://github.com/RockChinQ/GhostPioneer) An intelligent launcher for GhostJ
