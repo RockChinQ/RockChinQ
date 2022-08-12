@@ -78,7 +78,7 @@ that used in these projects
 
 - [OpenCamwall](https://github.com/RockChinQ/OpenCamwall) QQ空间校园墙自动化管理平台后端（收稿、发说说、数据分析...)
 - [python-classwork](https://github.com/RockChinQ/python-classwork) 上课作业
-- [okexAPI](https://github.com/RockChinQ/okexAPI) Crypto currency trading bot based on SAR rate
+- [okexAPI](https://github.com/RockChinQ/okexAPI) Crypto currency trading bot based on SAR index
 
 ## Web
 
