@@ -66,15 +66,15 @@ that used in these projects
 
 ### Other
 
-- [RFTX2](https://github.com/RockChinQ/RFTX2) A lib that implements two-way file transfer between server and client based on Socket
+<!-- - [RFTX2](https://github.com/RockChinQ/RFTX2) A lib that implements two-way file transfer between server and client based on Socket -->
 - [AutoXmrig](https://github.com/RockChinQ/AutoXmrig) Automatically deploy XMRIG then make it work
 - [MCSManagerAPI](https://github.com/idoknow/MCSManagerAPI) Pwn Minecraft's protocol
 
 ## Go
 
 - [OPQBot](https://github.com/opq-osc/OPQBot) (Contribute) yet another QQ bot
-- [ghogo](https://github.com/RockChinQ/ghogo) Remote control implementation written in Go
-- [gocryptobot](https://github.com/RockChinQ/gocryptobot) Crypto currency trading bot
+<!-- - [ghogo](https://github.com/RockChinQ/ghogo) Remote control implementation written in Go -->
+<!-- - [gocryptobot](https://github.com/RockChinQ/gocryptobot) Crypto currency trading bot -->
 - [GhostPioneer](https://github.com/RockChinQ/GhostPioneer) An intelligent launcher for GhostJ
 - [esn-daemon](https://github.com/EasyNotification/esn-daemon) A notification pushing platform for developers to build up a light-weight notification pushing system for their own software projects
 
