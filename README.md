@@ -51,7 +51,7 @@ A student of TianJin University of Technology
 
 JavaScript $\Rightarrow$ Java $\Rightarrow$ C $\Rightarrow$ Go $\Rightarrow$ Python
 
-# 📚Stacks
+<!-- # 📚Stacks
 
 that used in these projects
 
@@ -92,4 +92,4 @@ that used in these projects
 
 ### Vue
 
-- [stumapV2](https://stumap.idoknow.top)桂林中学毕业生去向图网站
+- [stumapV2](https://stumap.idoknow.top)桂林中学毕业生去向图网站 -->
