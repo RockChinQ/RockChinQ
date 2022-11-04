@@ -51,45 +51,45 @@ A student of TianJin University of Technology
 
 JavaScript $\Rightarrow$ Java $\Rightarrow$ C $\Rightarrow$ Go $\Rightarrow$ Python
 
-<!-- # 📚Stacks
+<!-- # 📚Stacks -->
 
-that used in these projects
+<!-- that used in these projects -->
 
-## Java
+<!-- ## Java -->
 
-### Swing
+<!-- ### Swing -->
 
-- [GhostJ](https://github.com/RockChinQ/GhostJ) Remote control Platform based on Socket.
-- [AutoPVZGarden](https://github.com/RockChinQ/AutoPVZGarden) Automatically plants flowers in the garden of PVZ to make much money in a short time.
-- [TicTacToe](https://github.com/RockChinQ/TicTacToe) Tic Tac Toe AI
-- [TetrisEngine](https://github.com/RockChinQ/TetrisEngine) Tetris!
+<!-- - [GhostJ](https://github.com/RockChinQ/GhostJ) Remote control Platform based on Socket. -->
+<!-- - [AutoPVZGarden](https://github.com/RockChinQ/AutoPVZGarden) Automatically plants flowers in the garden of PVZ to make much money in a short time. -->
+<!-- - [TicTacToe](https://github.com/RockChinQ/TicTacToe) Tic Tac Toe AI -->
+<!-- - [TetrisEngine](https://github.com/RockChinQ/TetrisEngine) Tetris! -->
 
-### Other
+<!-- ### Other -->
 
 <!-- - [RFTX2](https://github.com/RockChinQ/RFTX2) A lib that implements two-way file transfer between server and client based on Socket -->
-- [AutoXmrig](https://github.com/RockChinQ/AutoXmrig) Automatically deploy XMRIG then make it work
-- [MCSManagerAPI](https://github.com/idoknow/MCSManagerAPI) Pwn Minecraft's protocol
+<!-- - [AutoXmrig](https://github.com/RockChinQ/AutoXmrig) Automatically deploy XMRIG then make it work -->
+<!-- - [MCSManagerAPI](https://github.com/idoknow/MCSManagerAPI) Pwn Minecraft's protocol -->
 
-## Go
+<!-- ## Go -->
 
-- [OPQBot](https://github.com/opq-osc/OPQBot) (Contribute) yet another QQ bot
+<!-- - [OPQBot](https://github.com/opq-osc/OPQBot) (Contribute) yet another QQ bot -->
 <!-- - [ghogo](https://github.com/RockChinQ/ghogo) Remote control implementation written in Go -->
 <!-- - [gocryptobot](https://github.com/RockChinQ/gocryptobot) Crypto currency trading bot -->
-- [GhostPioneer](https://github.com/RockChinQ/GhostPioneer) An intelligent launcher for GhostJ
-- [esn-daemon](https://github.com/EasyNotification/esn-daemon) A notification pushing platform for developers to build up a light-weight notification pushing system for their own software projects
+<!-- - [GhostPioneer](https://github.com/RockChinQ/GhostPioneer) An intelligent launcher for GhostJ -->
+<!-- - [esn-daemon](https://github.com/EasyNotification/esn-daemon) A notification pushing platform for developers to build up a light-weight notification pushing system for their own software projects -->
 
-## Python
+<!-- ## Python -->
 
-- [OpenCamwall](https://github.com/RockChinQ/OpenCamwall) QQ空间校园墙自动化管理平台后端（收稿、发说说、数据分析...)
-- [python-classwork](https://github.com/RockChinQ/python-classwork) 上课作业
-- [okexAPI](https://github.com/RockChinQ/okexAPI) Crypto currency trading bot based on SAR index
+<!-- - [OpenCamwall](https://github.com/RockChinQ/OpenCamwall) QQ空间校园墙自动化管理平台后端（收稿、发说说、数据分析...) -->
+<!-- - [python-classwork](https://github.com/RockChinQ/python-classwork) 上课作业 -->
+<!-- - [okexAPI](https://github.com/RockChinQ/okexAPI) Crypto currency trading bot based on SAR index -->
 
-## Web
+<!-- ## Web -->
 
-### Native
+<!-- ### Native -->
 
-- [stumap](https://github.com/idoknow/stumap) 桂林中学21届毕业生录取去向图网站源码
+<!-- - [stumap](https://github.com/idoknow/stumap) 桂林中学21届毕业生录取去向图网站源码 -->
 
-### Vue
+<!-- ### Vue -->
 
-- [stumapV2](https://stumap.idoknow.top)桂林中学毕业生去向图网站 -->
+<!-- - [stumapV2](https://stumap.idoknow.top)桂林中学毕业生去向图网站 -->
