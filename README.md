@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<img src="https://profile-counter.glitch.me/{RockChinQ}/count.svg" />
+</p>
 Mainland China.    
 From Guilin,Guangxi Province.  
 Anarchism/Open source/Digital currency  
@@ -39,7 +42,8 @@ A student of TianJin University of Technology
 <!-- </details>
 <details>    --> 
 <!--  <summary><b>🏆 Github Achievements</b></summary> -->
-<p align="center"> <a href="https://github.com/RockChinQ"><img src="https://github-profile-trophy.vercel.app/?username=RockChinQ&margin-w=5&theme=radical" alt="RockChinQ" /></a> </p>
+<p align="center"> <a href="https://github.com/RockChinQ"><img src="https://github-profile-trophy.vercel.app/?username=RockChinQ&margin-w=5&theme=radical" 
+alt="RockChinQ" /></a> </p>
 
 <!-- <h2>ℹ️ &nbsp;Wakatime Stat</h2>
 
