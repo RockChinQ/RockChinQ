@@ -25,6 +25,10 @@ A student of TianJin University of Technology
 <!-- 
 [![RockChinQ's github stats](https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) -->
 
+# 🐾 Studying Path
+
+JavaScript $\Rightarrow$ Java $\Rightarrow$ C $\Rightarrow$ Go $\Rightarrow$ Python
+
 # ℹ️ Github Info
 <!-- 	
   <summary><b>🔎 Github Profile Details</b></summary>
@@ -51,10 +55,6 @@ alt="RockChinQ" /></a> </p>
  <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=RockChinQ" alt="RockChinQ" align = "center"/></p>
 </p> -->
-
-# 🐾 Studying Path
-
-JavaScript $\Rightarrow$ Java $\Rightarrow$ C $\Rightarrow$ Go $\Rightarrow$ Python
 
 <!-- # 📚Stacks -->
 
