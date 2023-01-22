@@ -25,7 +25,7 @@ A student of TianJin University of Technology
 <!-- 
 [![RockChinQ's github stats](https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) -->
 
-# 🐾 Studying Path
+# 🐾 Learning Path
 
 JavaScript $\Rightarrow$ Java $\Rightarrow$ C $\Rightarrow$ Go $\Rightarrow$ Python
 
