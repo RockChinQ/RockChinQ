@@ -20,7 +20,17 @@ Here are some ideas to get you started:
 
 Mainland China.    
 From Guilin,Guangxi Province.  
-A student of TianJin University of Technology
+A student of TianJin University of Technology  
+
+**Why not come to travel my hometown😍?**  
+
+<img height="200em" src="https://user-images.githubusercontent.com/45992437/221341503-34ab9cdd-21d4-40c4-9cc5-b578451a2a0b.jpg" alt="Guilin City" />
+
+Aerial photo of Guilin urban area, shot by [@Cling](https://500px.com.cn/community/user-details/8d9e489d7419386dcf97a8b8198b78648)
+                                                                                                                                     
+<!-- ![Cache_61ace37c69f18583](https://user-images.githubusercontent.com/45992437/221341503-34ab9cdd-21d4-40c4-9cc5-b578451a2a0b.jpg) -->
+
+
 <!-- 
 [![RockChinQ's github stats](https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) -->
 
