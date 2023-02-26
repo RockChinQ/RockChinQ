@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 # 🐾 Learning Path
 
-JavaScript (Mod, Vue) $\Rightarrow$ Java (Swing, Socket, design patterns) $\Rightarrow$ C $\Rightarrow$ Go $\Rightarrow$ Python (Flask)
+JavaScript $\Rightarrow$ Java $\Rightarrow$ C $\Rightarrow$ Go $\Rightarrow$ Python
 
 # ℹ️ Github Info
 <!-- 	
