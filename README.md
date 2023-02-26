@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">Mainland China.</p>
 <p align="center">From Guilin,Guangxi Province.  </p>
-<p align="center">Undergraduate student of TianJin University of Technology  </p>
+<p align="center">Undergraduate student of TJUT, major in CS  </p>
 
 <p align="center"><strong>Why not come to travel my hometown😍?</strong>  </p>
 
