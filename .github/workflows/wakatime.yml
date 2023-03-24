@@ -1,13 +1,23 @@
-name: WakaTime
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.wakatime.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_wakatime: yes
-  plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-  plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
-  plugin_wakatime_days: 7                                   # Display last week stats
-  plugin_wakatime_limit: 4                                  # Show 4 entries per graph
-  plugin_wakatime_url: http://wakapi.dev                    # Wakatime url endpoint
-  plugin_wakatime_user: RockChinQ                         # User
+name: Write Wakatime svg
+
+on: [push]
+
+jobs:
+  release:
+    name: Wakatime
+    runs-on: [ubuntu-latest]
+
+    steps:
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
+          plugin_wakatime_days: 7                                   # Display last week stats
+          plugin_wakatime_limit: 4                                  # Show 4 entries per graph
+          plugin_wakatime_url: http://wakapi.dev                    # Wakatime url endpoint
+          plugin_wakatime_user: RockChinQ                         # User
