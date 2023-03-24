@@ -58,6 +58,8 @@ JavaScript $\Rightarrow$ Java $\Rightarrow$ C $\Rightarrow$ Go $\Rightarrow$ Pyt
 <p align="center"> <a href="https://github.com/RockChinQ"><img src="https://github-profile-trophy.vercel.app/?username=RockChinQ&margin-w=5&theme=radical" 
 alt="RockChinQ" /></a> </p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=RockChinQ&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt=""/></p>
+
 <!-- <h2>ℹ️ &nbsp;Wakatime Stat</h2>
 
  <p align="center">
