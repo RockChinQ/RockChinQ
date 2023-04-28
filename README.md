@@ -56,11 +56,20 @@ JavaScript $\Rightarrow$ Java $\Rightarrow$ C $\Rightarrow$ Go $\Rightarrow$ Pyt
 <details>    --> 
 <!--  <summary><b>🏆 Github Achievements</b></summary> -->
 
+<p align="center"> <a href="https://github.com/RockChinQ"><img width="600em" src="https://github-profile-trophy.vercel.app/?username=RockChinQ&margin-w=5&theme=radical&title=MultiLanguage,Stars,Commits,Issues,Followers,PullRequest" 
+alt="RockChinQ" /></a> </p>
+
+# 😼Be Healthy
+
+当满足以下条件之一时，将停止一切编程活动直到三个条件都是False:
+
+- 今天是某月28日
+- 下方显示的过去30天编程时间>=45小时
+
 <p align="center">
 <img src = "metrics.plugin.wakatime.svg" align="center"/>
 </p>
-<p align="center"> <a href="https://github.com/RockChinQ"><img width="600em" src="https://github-profile-trophy.vercel.app/?username=RockChinQ&margin-w=5&theme=radical&title=MultiLanguage,Stars,Commits,Issues,Followers,PullRequest" 
-alt="RockChinQ" /></a> </p>
+
 
 <!-- # 📚Stacks -->
 
