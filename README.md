@@ -37,6 +37,11 @@ Here are some ideas to get you started:
 
 JavaScript $\Rightarrow$ Java $\Rightarrow$ C $\Rightarrow$ Go $\Rightarrow$ Python
 
+
+<p align="center">
+  <img width="400em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rockchinq" alt="codersrank"/>
+</p>
+
 # ℹ️ Github Info
 <!-- 	
   <summary><b>🔎 Github Profile Details</b></summary>
@@ -59,9 +64,7 @@ JavaScript $\Rightarrow$ Java $\Rightarrow$ C $\Rightarrow$ Go $\Rightarrow$ Pyt
 <p align="center"> <a href="https://github.com/RockChinQ"><img width="600em" src="https://github-profile-trophy.vercel.app/?username=RockChinQ&margin-w=5&theme=radical&title=MultiLanguage,Stars,Commits,Issues,Followers,PullRequest" 
 alt="RockChinQ" /></a> </p>
 
-<p align="center">
-  <img width="400em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rockchinq" alt="codersrank"/>
-</p>
+
 
 # 😼Be Healthy
 
