@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img height="200em" src="https://user-images.githubusercontent.com/45992437/221341503-34ab9cdd-21d4-40c4-9cc5-b578451a2a0b.jpg" alt="Guilin City" /> </p>
 
-<p align="center"> Aerial photo of Guilin urban area, shot by <a href="https://500px.com.cn/community/user-details/8d9e489d7419386dcf97a8b8198b78648">@Cling</a>
+<p align="center"> Aerial photo of Guilin(桂林) urban area, shot by <a href="https://500px.com.cn/community/user-details/8d9e489d7419386dcf97a8b8198b78648">@Cling</a>
 </p>
 <!-- ![Cache_61ace37c69f18583](https://user-images.githubusercontent.com/45992437/221341503-34ab9cdd-21d4-40c4-9cc5-b578451a2a0b.jpg) -->
 
