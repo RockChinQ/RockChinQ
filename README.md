@@ -63,8 +63,8 @@ JavaScript $\Rightarrow$ Java $\Rightarrow$ C $\Rightarrow$ Go $\Rightarrow$ Pyt
 
 <!-- <p align="center"> <a href="https://github.com/RockChinQ"><img width="600em" src="https://github-profile-trophy.vercel.app/?username=RockChinQ&margin-w=5&theme=radical&title=MultiLanguage,Stars,Commits,Issues,Followers,PullRequest" 
 alt="RockChinQ" /></a> </p> --!>
-<img width="600em" src="https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly" alt="RockChinQ" />
-
+<p> <img width="600em" src="https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly" alt="RockChinQ" />
+</p>
 
 
 # 😼Be Healthy
