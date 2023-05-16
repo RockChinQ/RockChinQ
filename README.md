@@ -80,11 +80,9 @@ alt="RockChinQ" /></a> </p> -->
 
 <details>
   <summary>给我打钱😍</summary>  
-
-  ![F87213410BB5B64B5031979805631C33](https://github.com/RockChinQ/RockChinQ/assets/45992437/936f231d-9532-45e7-95f2-2734dff26113)
-
-  ![0E762F2F9ABE5D884AC320DD23888C46](https://github.com/RockChinQ/RockChinQ/assets/45992437/08587b79-904e-403d-884f-1fa985de6462)
-
+  
+  ![F87213410BB5B64B5031979805631C33](https://github.com/RockChinQ/RockChinQ/assets/45992437/d353815d-f65b-49b2-9c97-1a69b37f83fd)
+![0E762F2F9ABE5D884AC320DD23888C46](https://github.com/RockChinQ/RockChinQ/assets/45992437/d1961876-c22f-4c05-ba89-d0506f460fdc)
   
 </details>
 
