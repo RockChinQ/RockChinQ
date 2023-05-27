@@ -3,32 +3,30 @@
 <p align="center">
 <img src="https://profile-counter.glitch.me/{RockChinQ}/count.svg" />
 
-<p align="center">Mainland China.</p>
-<p align="center">From Guilin（桂林）,Guangxi Province.  </p>
-<p align="center">Undergraduate student of TJUT, major in CS  </p>
+<p align="center">🏘️From Guilin (<a href="https://en.wikipedia.org/wiki/Guilin">桂林</a>), China. 🏘️ </p>
+<p align="center">🏫Undergraduate student of TJUT, major in CS  🏫</p>
 
-<p align="center"><strong>Why not come to travel my hometown😍?</strong>  </p>
+<p align="center">😍<strong>Why not come to travel my hometown?</strong> 😍 </p>
 
-<p align="center"><img height="200em" src="https://user-images.githubusercontent.com/45992437/221341503-34ab9cdd-21d4-40c4-9cc5-b578451a2a0b.jpg" alt="Guilin City" /> </p>
+<p align="center"><img width="280em" src="https://user-images.githubusercontent.com/45992437/221341503-34ab9cdd-21d4-40c4-9cc5-b578451a2a0b.jpg" alt="Guilin City" /> </p>
 
-<p align="center"> Aerial photo of Guilin urban area, shot by <a href="https://500px.com.cn/community/user-details/8d9e489d7419386dcf97a8b8198b78648">@Cling</a>
+<p align="center"> <i>Aerial photo of Guilin urban area, shot by <a href="https://500px.com.cn/community/user-details/8d9e489d7419386dcf97a8b8198b78648">@Cling</a> </i>
 </p>
 
-# 🐾 Learning Path
+<hr/>
 
-JavaScript $\Rightarrow$ Java $\Rightarrow$ C $\Rightarrow$ Go $\Rightarrow$ Python
-
-
-<p align="center">
-  <img width="400em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rockchinq" alt="codersrank"/>
+<p align="center"> 
+⚒️Perfecting the world with: JavaScript, Java, C, Go, Python⚒️
 </p>
 
-# ℹ️ Github Info
-
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RockChinQ&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="RockChinQ" align = "center"/></p>
+  <img width="300em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rockchinq" alt="codersrank"/>
+</p>
 
-<p align="center"> <img width="600em" src="https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly" alt="RockChinQ" />
+<!-- <p align="center">
+<img width="280em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RockChinQ&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="RockChinQ" align = "center"/></p> -->
+
+<p align="center"> <img width="300em" src="https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly" alt="RockChinQ" />
 </p>
 
 # 😼 Be Healthy
