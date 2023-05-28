@@ -4,7 +4,7 @@
 <img src="https://profile-counter.glitch.me/{RockChinQ}/count.svg" />
 
 <p align="center">🏘️From Guilin (<a href="https://en.wikipedia.org/wiki/Guilin">桂林</a>), China. 🏘️ </p>
-<p align="center">🏫Undergraduate student of TJUT, major in CS  🏫</p>
+<p align="center">🏫Undergraduate at TJUT, major in CS  🏫</p>
 
 <p align="center">😍<strong>Why not come to travel my hometown?</strong> 😍 </p>
 
