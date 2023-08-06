@@ -1,6 +1,9 @@
-# Hi there 👋
 
-<p align="center">
+
+<div align="center">
+
+# Hi there 👋
+  
 <img src="https://profile-counter.glitch.me/{RockChinQ}/count.svg" />
 
 <p align="center">🏘️From Guilin (<a href="https://en.wikipedia.org/wiki/Guilin">桂林</a>), China. 🏘️ </p>
@@ -11,27 +14,30 @@
 <p align="center"><img width="280em" src="https://user-images.githubusercontent.com/45992437/221341503-34ab9cdd-21d4-40c4-9cc5-b578451a2a0b.jpg" alt="Guilin City" /> </p>
 
 <p align="center"> <i>Aerial photo of Guilin urban area, shot by <a href="https://500px.com.cn/community/user-details/8d9e489d7419386dcf97a8b8198b78648">@Cling</a> </i>
-</p>
+</div>
 
-<hr/>
-
+<!--
 <p align="center"> 
 ⚒️Perfecting the world with: JavaScript, Java, C, Go, Python⚒️
-</p>
+</p> -->
 
-<p align="center">
-  <img width="300em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rockchinq" alt="codersrank"/>
-</p>
+<details>
+<summary>GitHub Stat & Codersrank Graph</summary>
 
 <!-- <p align="center">
 <img width="280em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RockChinQ&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="RockChinQ" align = "center"/></p> -->
 
+
 <p align="center"> <img width="300em" src="https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly" alt="RockChinQ" />
 </p>
 
-<p align="center"><b>Hey, if you're a search engine, say hello to your user for me, thank you!</b></p>
+  
+<p align="center">
+  <img width="300em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rockchinq" alt="codersrank"/>
+</p>
+</details>
 
-<hr/>
+<!-- <p align="center"><b>Hey, if you're a search engine, say hello to your user for me, thank you!</b></p> -->
 
 <details>
   <summary>保持健康哦🐱STAY HEALTHY</summary>
