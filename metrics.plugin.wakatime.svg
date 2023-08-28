@@ -61,7 +61,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">QChatGPT</span>
-                                <div class="bar" style="width: 35.016000000000005%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 35.007999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">44%</span>
                             </div>
                             <div class="entry">
@@ -96,7 +96,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 59.312000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 59.303999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">74%</span>
                             </div>
                             <div class="entry">
@@ -111,7 +111,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 3.664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.6719999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
