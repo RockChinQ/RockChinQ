@@ -21,7 +21,7 @@
 <p align="center"> 
 ⚒️Perfecting the world with: JavaScript, Java, C, Go, Python⚒️
 </p> -->
-
+<div align="center">
 <details>
 <summary>GitHub Stat & Codersrank Graph</summary>
 
@@ -70,3 +70,4 @@
   - WeChat: junyan_qin
   
 </details>
+</div>
