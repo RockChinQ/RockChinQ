@@ -18,7 +18,7 @@
 
 <div align="center">
 <details>
-<summary>✨More (Github Stat, Contact)</summary>
+<summary>✨More (Github Stats, Contact)</summary>
 
 <div align="left">
 <!--
@@ -26,7 +26,7 @@
 ⚒️Perfecting the world with: JavaScript, Java, C, Go, Python⚒️
 </p> -->
 
-### 📊 GitHub Stat & Codersrank Graph
+### 📊 GitHub Stats & Codersrank Graph
 
 <!-- <p align="center">
 <img width="280em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RockChinQ&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="RockChinQ" align = "center"/></p> -->
