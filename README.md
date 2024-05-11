@@ -59,6 +59,7 @@
 - LLM: OpenAI, Milvus
 - DB & Storage: MongoDB, MySQL, SQLite, Redis, MinIO
 - Ops: Docker, Compose, Grafana, GitHub Actions
+- QA: PyTest
 
 ### 😍 给我打钱 SPONSOR ME 
   
