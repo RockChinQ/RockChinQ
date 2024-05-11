@@ -54,9 +54,9 @@
 
 ### 👀 技术栈全览 STACKS
 
-- Language: Python, Golang, Java, Vue, C++
-- Web: Gin, Flask, Quart
-- LLM: OpenAI
+- Language: Python, Golang, Java, C++
+- Web: Gin, Flask, Quart, Vue, Vuetify, ElementUI
+- LLM: OpenAI, Milvus
 - DB & Storage: MongoDB, MySQL, SQLite, Redis, MinIO
 - Ops: Docker, Compose, Grafana, GitHub Actions
 
