@@ -61,12 +61,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">docker</span>
-                                <div class="bar" style="width: 69.256%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 69.464%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">87%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">tempo</span>
-                                <div class="bar" style="width: 10.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 10.536000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">13%</span>
                             </div>
                         </div>
@@ -76,17 +76,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 43.776%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">55%</span>
+                                <div class="bar" style="width: 44.480000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">56%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Caddyfile</span>
-                                <div class="bar" style="width: 23.96%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">30%</span>
+                                <div class="bar" style="width: 23.496000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">29%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">unknown</span>
-                                <div class="bar" style="width: 12.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 11.952%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">15%</span>
                             </div>
                             <div class="entry">
