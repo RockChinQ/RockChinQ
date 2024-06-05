@@ -16,7 +16,19 @@
 </div>
 
 <div align="center">接受远程/实习/兼职工作邀请🫡</div>
-<br/>
+
+<h3 align="center">技术栈全览 STACKS</h3>
+
+<div align="center">
+
+Language: Python, Golang, Java, C++  
+Web: Gin, Flask, Quart, Vue, Vuetify, ElementUI  
+LLM: OpenAI, Milvus, Agent, RAG  
+DB & Storage: MongoDB, MySQL, SQLite, Redis, MinIO  
+Ops: Docker, Compose, Grafana, GitHub Actions  
+QA: PyTest
+  
+</div>
 
 <div align="center">
 <details>
@@ -54,15 +66,6 @@
 <p >
 <img src = "metrics.plugin.wakatime.svg" align="center"/>
 </p> -->
-
-### 👀 技术栈全览 STACKS
-
-- Language: Python, Golang, Java, C++
-- Web: Gin, Flask, Quart, Vue, Vuetify, ElementUI
-- LLM: OpenAI, Milvus
-- DB & Storage: MongoDB, MySQL, SQLite, Redis, MinIO
-- Ops: Docker, Compose, Grafana, GitHub Actions
-- QA: PyTest
 
 ### 😍 给我打钱 SPONSOR ME 
   
