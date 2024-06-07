@@ -15,7 +15,7 @@
 <p align="center"> <i>Aerial photo of Guilin urban area, shot by <a href="https://500px.com.cn/community/user-details/8d9e489d7419386dcf97a8b8198b78648">@Cling</a> </i>
 </div>
 
-<div align="center">接受远程/实习/兼职工作邀请🫡</div>
+<!--<div align="center">接受远程/实习/兼职工作邀请🫡</div>
 
 <h3 align="center">技术栈全览 STACKS</h3>
 
@@ -28,7 +28,7 @@ DB & Storage: MongoDB, MySQL, SQLite, Redis, MinIO
 Ops: Docker, Compose, Grafana, GitHub Actions  
 QA: PyTest
   
-</div>
+</div> -->
 
 <div align="center">
 <details>
