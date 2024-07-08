@@ -16,7 +16,7 @@
 </div>
 
 <details>
-<summary><strong>📦 主要项目&技术栈 REMARKABLE PROJECTS</strong></summary>
+<summary><strong>📦 主要项目&技术栈 PROJECTS</strong></summary>
 
 - [QChatGPT](https://github.com/RockChinQ/QChatGPT) (Python, LLM, Flask, PyTest, Docker, SQLite) - 支持扩展的 LLM QQ / QQ频道 机器人🤖
 - [Campux](https://github.com/idoknow/Campux) (Go, Gin, MongoDB, Redis, MinIO, Python, Vue, Vuetify, Docker) - QQ 空间校园墙自动化解决方案
@@ -30,7 +30,7 @@
 </details>
 
 <details>
-<summary> <strong>📊 GitHub Stats & Codersrank Graph</strong></summary>
+<summary> <strong>📊 GitHub Stats </strong></summary>
 
 <p> <img width="300em" src="https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly" alt="RockChinQ" />
 </p>
@@ -53,7 +53,7 @@
 
 
 <details>
-<summary> <strong>📲 联系方式 CONTACT ME</strong></summary>
+<summary> <strong>📲 联系方式 CONTACTS </strong></summary>
 
   - Email: junyan_qin@qq.com
   - QQ: 1010553892
