@@ -95,12 +95,12 @@
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">textmate</span>
+                                <span class="name">INI</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">INI</span>
+                                <span class="name">textmate</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
