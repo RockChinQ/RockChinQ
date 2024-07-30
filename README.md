@@ -18,19 +18,20 @@
 <details>
 <summary><strong>📦 主要项目&技术栈 PROJECTS</strong></summary>
 
-- [QChatGPT](https://github.com/RockChinQ/QChatGPT) (Python, LLM, Flask, PyTest, Docker, SQLite) - 支持扩展的 LLM QQ / QQ频道 机器人🤖
-- [Campux](https://github.com/idoknow/Campux) (Go, Gin, MongoDB, Redis, MinIO, Python, Vue, Vuetify, Docker) - QQ 空间校园墙自动化解决方案
+- [QChatGPT⭐️](https://github.com/RockChinQ/QChatGPT) (Python, LLM, Flask, PyTest, Docker, SQLite) - 支持扩展的 LLM QQ / QQ频道 机器人🤖
+- [Campux⭐️](https://github.com/idoknow/Campux) (Go, Gin, MongoDB, Redis, MinIO, Python, Vue, Vuetify, Docker) - QQ 空间校园墙自动化解决方案
 - [free-one-api](https://github.com/RockChinQ/free-one-api) (Python, Flask, SQLite, Vue, ElementUI) - LLM 对话产品逆向工程接口网关
 - [CallingGPT](https://github.com/RockChinQ/CallingGPT) (Python, OpenAI) - 轻量级 LLM Agent 开发框架
 - [qcg-center](https://github.com/RockChinQ/qcg-center) (Go, Gin, Grafana, MongoDB, Docker) - QChatGPT 的遥测服务端
 - [qcg-tester](https://github.com/RockChinQ/qcg-tester) (PyTest) - QChatGPT 的系统级测试工程
 - [GhostJ](https://github.com/RockChinQ/GhostJ) (Java, Socket, Swing) - 基于 Socket 的远程控制平台
 
+⭐️: 活跃维护
 
 </details>
 
 <details>
-<summary> <strong>📊 GitHub Stats </strong></summary>
+<summary> <strong>📊 GITHUB STATS </strong></summary>
 
 <p> <img width="300em" src="https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly" alt="RockChinQ" />
 </p>
