@@ -31,6 +31,16 @@
 </details>
 
 <details>
+  <summary><strong>🗂️ 实习经历 INTERNSHIPS</strong></summary>
+
+  - [@maimemo](https://github.com/maimemo) | 2023.7 ~ 2023.9 | Python 后端
+  - [@baidu](https://github.com/baidu) | 2023.11 ~ 2024.4 | 测试开发
+  - [@langgenius](https://github.com/langgenius) | 2024.8 ~  ⭐️ | 后端开发
+
+⭐️: 至今
+</details>
+
+<details>
 <summary> <strong>📊 GITHUB STATS </strong></summary>
 
 <p> <img width="300em" src="https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly" alt="RockChinQ" />
