@@ -43,11 +43,11 @@
 <details>
 <summary> <strong>📊 GITHUB STATS </strong></summary>
 
-<p> <img width="300em" src="https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly" alt="RockChinQ" />
+<p> <img width="420em" src="https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly" alt="RockChinQ" />
 </p>
 
 <p>
-  <img width="300em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rockchinq" alt="codersrank"/>
+  <img width="420em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rockchinq" alt="codersrank"/>
 </p>
 
 </details>
