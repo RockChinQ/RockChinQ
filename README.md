@@ -68,7 +68,6 @@
 <summary> <strong>📲 联系方式 CONTACTS </strong></summary>
 
   - Email: junyan_qin@qq.com
-  - QQ: 1010553892
   - WeChat: junyan_qin
 
 </details>
