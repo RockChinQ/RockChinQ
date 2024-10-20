@@ -67,7 +67,7 @@
 <details>
 <summary> <strong>📲 联系方式 CONTACTS </strong></summary>
 
-  - Email: junyan_qin@qq.com
+  - Email: rockchinq@gmail.com
   - WeChat: junyan_qin
 
 </details>
