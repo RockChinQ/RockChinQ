@@ -29,6 +29,7 @@
 
 </details>
 
+<!--
 <details>
   <summary><strong>🗂️ 实习经历 INTERNSHIPS</strong></summary>
 
@@ -38,7 +39,7 @@
 
 ⭐️: 至今
 </details>
-
+-->
 <details>
 <summary> <strong>📊 GITHUB STATS </strong></summary>
 
