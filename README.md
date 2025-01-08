@@ -29,7 +29,7 @@
 - [free-one-api](https://github.com/RockChinQ/free-one-api) (Python, Flask, SQLite, Vue, ElementUI) - LLM 对话产品逆向工程接口网关
 - [CallingGPT](https://github.com/RockChinQ/CallingGPT) (Python, OpenAI) - 轻量级 LLM Agent 开发框架
 - [GhostJ](https://github.com/RockChinQ/GhostJ) (Java, Socket, Swing) - 基于 Socket 的远程控制平台
-- [Dify Marketplace](https://marketplace.dify.ai) - The official marketplace for [langgenius/dify](https://github.com/langgenius/dify)
+- [Dify Marketplace ⭐](https://marketplace.dify.ai) - The official marketplace for [langgenius/dify](https://github.com/langgenius/dify)
 
 ⭐️: 活跃维护
 
