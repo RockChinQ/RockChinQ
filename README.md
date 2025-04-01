@@ -16,7 +16,7 @@
 </div>
 
 <details>
-<summary><strong>📦 主要项目&技术栈 PROJECTS</strong></summary>
+<summary><strong>📦 主要项目&技术栈 PROJECTS & STACKS</strong></summary>
 
 - [LangBot ⭐️](https://github.com/RockChinQ/LangBot) (Python, LLM, Flask, Vue, Docker) - 大模型原生即时通信机器人平台 🤖
 - [Campux ⭐️](https://github.com/idoknow/Campux) (Gin, MongoDB, Redis, MinIO, Vue, Vuetify, Docker) - QQ 空间校园墙自动化解决方案
@@ -63,7 +63,7 @@
 
 
 <details>
-<summary> <strong>📲 联系方式 CONTACTS </strong></summary>
+<summary> <strong>📬 联系方式 CONTACTS </strong></summary>
 
   - Email: rockchinq@gmail.com
   - WeChat: junyan_qin **(添加请注明来意)**
