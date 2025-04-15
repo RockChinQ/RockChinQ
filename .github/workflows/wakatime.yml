@@ -16,13 +16,10 @@ jobs:
       - name: WakaTime
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
-          plugin_wakatime_days: 30                                   # Display last week stats
-          plugin_wakatime_limit: 6                                  # Show 4 entries per graph
-          plugin_wakatime_url: http://wakapi.dev                    # Wakatime url endpoint
-          plugin_wakatime_user: RockChinQ                         # User
+          plugin_isocalendar: true
+          plugin_languages: true
+          plugin_lines: true
+          plugin_reactions: true
+          plugin_wakatime: true
+          token: ${{ secrets.GH_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
