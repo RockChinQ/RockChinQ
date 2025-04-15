@@ -21,5 +21,5 @@ jobs:
           plugin_lines: true
           plugin_reactions: true
           plugin_wakatime: true
-          token: ${{ secrets.GH_TOKEN }}
+          token: NOT_NEEDED
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
