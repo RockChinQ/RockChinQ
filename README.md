@@ -30,11 +30,12 @@
 </details>
 
 <details>
-  <summary><strong>🗂️ 实习经历 INTERNSHIPS</strong></summary>
+  <summary><strong>🗂️ 经历 EXPERIENCES</strong></summary>
 
-  - [@maimemo](https://github.com/maimemo) | 2023.7 ~ 2023.9 | Python 后端
-  - [@baidu](https://github.com/baidu) | 2023.11 ~ 2024.4 | 测试开发
-  - [@langgenius](https://github.com/langgenius) | 2024.8 ~  ⭐️ | 后端开发
+  - [@maimemo](https://github.com/maimemo) | 2023.7 ~ 2023.9 | Python 后端实习
+  - [@baidu](https://github.com/baidu) | 2023.11 ~ 2024.4 | 测试开发实习
+  - [@langgenius](https://github.com/langgenius) | 2024.8 ~  ⭐️ | 后端开发实习
+  - [@langbot-app](https://github.com/langbot-app) | 2022.12 ~ ⭐️
 
 ⭐️: 至今
 </details>
