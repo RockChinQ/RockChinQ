@@ -3,7 +3,7 @@
 
 # Hi there 👋
   
-<img src="https://profile-counter.glitch.me/{RockChinQ}/count.svg" />
+<!--<img src="https://profile-counter.glitch.me/{RockChinQ}/count.svg" />-->
 
 <p align="center">🏘️ From <a href="https://en.wikipedia.org/wiki/Guilin">Guilin</a> (桂林), China. 🏘️ </p>
 <p align="center">😬 22 y.o., coding since 10. 😬 </p>
