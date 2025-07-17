@@ -34,7 +34,9 @@
 
   - [@maimemo](https://github.com/maimemo) | 2023.7 ~ 2023.9 | Python Backend Intern
   - [@baidu](https://github.com/baidu) | 2023.11 ~ 2024.4 | QA Intern
-  - [@langgenius](https://github.com/langgenius) | 2024.8 ~  ⭐️ | Backend Intern
+  - [@langgenius](https://github.com/langgenius)
+    - 2024.8 ~ 2025.6 | Backend Intern
+    - 2025.7 ～ ⭐️ | Backend Engineer
   - [@langbot-app](https://github.com/langbot-app) | 2022.12 ~ ⭐️ | Founder
 
 ⭐️: 至今
