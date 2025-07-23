@@ -7,7 +7,7 @@
 
 <p align="center">🏘️ From <a href="https://en.wikipedia.org/wiki/Guilin">Guilin</a> (桂林), China. 🏘️ </p>
 <p align="center">😬 22 y.o., coding since 10. 😬 </p>
-<p align="center">🏫 Undergraduate at TJUT, currently major in CS. 🏫</p>
+<p align="center">🏫 Bachelor of Engineering, TJUT, major in CS 🏫</p>
 <p align="center">😍 <strong>Why not come to travel my hometown?</strong> 😍 </p>
 
 <p align="center"><img width="280em" src="https://user-images.githubusercontent.com/45992437/221341503-34ab9cdd-21d4-40c4-9cc5-b578451a2a0b.jpg" alt="Guilin City" /> </p>
