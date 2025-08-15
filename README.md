@@ -53,12 +53,16 @@
   <img align="center" width="420em" src="https://wakatime.com/share/@RockChinQ/22529e57-0347-4dbc-be74-7dcc60c24505.svg" />
 </p>
 
+<!-- Copy-paste in your Readme.md file -->
+
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=45992437" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=45992437&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @RockChinQ" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=45992437&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 </details>
 
