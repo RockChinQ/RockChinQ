@@ -18,12 +18,13 @@
 <details>
 <summary><strong>📦 主要项目&技术栈 PROJECTS & STACKS</strong></summary>
 
-- [LangBot ⭐️](https://github.com/RockChinQ/LangBot) (Python, LLM, Flask, Vue, Docker) - 大模型原生即时通信机器人平台 🤖
+- [LangBot ⭐️](https://github.com/RockChinQ/LangBot) (Python, LLM, Flask, Vue, Docker) - Universal gateway for landing your AI Agents to users on the IM platforms 🤖
 - [Campux ⭐️](https://github.com/idoknow/Campux) (Gin, MongoDB, Redis, MinIO, Vue, Vuetify, Docker) - QQ 空间校园墙自动化解决方案
-- [free-one-api](https://github.com/RockChinQ/free-one-api) (Python, Flask, SQLite, Vue, ElementUI) - LLM 对话产品逆向工程接口网关
-- [CallingGPT](https://github.com/RockChinQ/CallingGPT) (Python, OpenAI) - 轻量级 LLM Agent 开发框架
-- [GhostJ](https://github.com/RockChinQ/GhostJ) (Java, Socket, Swing) - 基于 Socket 的远程控制平台
+- [free-one-api](https://github.com/RockChinQ/free-one-api) (Python, Flask, SQLite, Vue, ElementUI) - LLM products reverse engineering, free access to AI
+- [CallingGPT](https://github.com/RockChinQ/CallingGPT) (Python, OpenAI) - Lightweight LLM agent framework that simply converts Python functions to OpenAI function format
+- [GhostJ](https://github.com/RockChinQ/GhostJ) (Java, Socket, Swing) - C2 platform written in pure Java
 - [Dify Marketplace ⭐](https://marketplace.dify.ai) - The official marketplace for [langgenius/dify](https://github.com/langgenius/dify)
+- [Dify Creators Center ⭐](https://creators.dify.ai) - Creators platform enables users to share their workflow templates and plugins (WIP)
 
 ⭐️: 活跃维护
 
