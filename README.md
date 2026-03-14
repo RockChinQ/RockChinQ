@@ -19,7 +19,7 @@
 <summary><strong>📦 主要项目&技术栈 PROJECTS & STACKS</strong></summary>
 
 - [LangBot ⭐️](https://github.com/RockChinQ/LangBot) (Python, LLM, Flask, Vue, Docker) - Universal gateway for landing your AI Agents to users on the IM platforms 🤖
-- [Campux ⭐️](https://github.com/idoknow/Campux) (Gin, MongoDB, Redis, MinIO, Vue, Vuetify, Docker) - QQ 空间校园墙自动化解决方案
+- [Campux](https://github.com/idoknow/Campux) (Gin, MongoDB, Redis, MinIO, Vue, Vuetify, Docker) - QQ 空间校园墙自动化解决方案
 - [free-one-api](https://github.com/RockChinQ/free-one-api) (Python, Flask, SQLite, Vue, ElementUI) - LLM products reverse engineering gateway, free access to AI, now archived
 - [CallingGPT](https://github.com/RockChinQ/CallingGPT) (Python, OpenAI) - Lightweight LLM agent framework that simply converts Python functions to OpenAI function format
 - [GhostJ](https://github.com/RockChinQ/GhostJ) (Java, Socket, Swing) - C2 platform written in pure Java
