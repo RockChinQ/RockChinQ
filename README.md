@@ -23,8 +23,8 @@
 - [free-one-api](https://github.com/RockChinQ/free-one-api) (Python, Flask, SQLite, Vue, ElementUI) - LLM products reverse engineering gateway, free access to AI, now archived
 - [CallingGPT](https://github.com/RockChinQ/CallingGPT) (Python, OpenAI) - Lightweight LLM agent framework that simply converts Python functions to OpenAI function format
 - [GhostJ](https://github.com/RockChinQ/GhostJ) (Java, Socket, Swing) - C2 platform written in pure Java
-- [Dify Marketplace ⭐](https://marketplace.dify.ai) - The official marketplace for [langgenius/dify](https://github.com/langgenius/dify)
-- [Dify Creators Center ⭐](https://creators.dify.ai) - Creators platform enables users to share their Dify workflow templates and plugins (WIP)
+- [Dify Marketplace](https://marketplace.dify.ai) - Built the official marketplace for [langgenius/dify](https://github.com/langgenius/dify) from scratch
+- [Dify Creators Center](https://creators.dify.ai) - For users to submit their templates and plugins to the Marketplace, also built from scratch
 
 ⭐️: 活跃维护
 
