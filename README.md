@@ -28,6 +28,11 @@
 
 ⭐️: 活跃维护
 
+#### For fun
+
+- 🗺️ [civ-tui](https://github.com/RockChinQ/civ-tui) - Play Civilization, in terminal.
+- 🪵 [MCSniffer](https://github.com/RockChinQ/MCSniffer) - Sniff Minecraft Java Edition servers on the internet.
+
 </details>
 
 <details>
