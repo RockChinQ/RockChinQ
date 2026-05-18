@@ -19,7 +19,7 @@
 <summary><strong>📦 PROJECTS</strong></summary>
 
 - [Prevu Cloud](https://prevu.cloud) - VM-backed preview environments for coding-agent work
-- [LangBot ⭐️](https://github.com/RockChinQ/LangBot) - Universal gateway for landing your AI Agents to users on the IM platforms 🤖
+- [LangBot ⭐️](https://github.com/langbot-app/LangBot) - Universal gateway for landing your AI Agents to users on the IM platforms 🤖
 - [Campux](https://github.com/idoknow/Campux) - QQ 空间校园墙自动化解决方案
 - [free-one-api](https://github.com/RockChinQ/free-one-api) - LLM products reverse engineering gateway, free access to AI, now archived
 - [CallingGPT](https://github.com/RockChinQ/CallingGPT) - Lightweight LLM agent framework that simply converts Python functions to OpenAI function format
