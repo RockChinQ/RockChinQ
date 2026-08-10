@@ -27,7 +27,7 @@
 - [Dify Marketplace](https://marketplace.dify.ai) - Built the official marketplace for [langgenius/dify](https://github.com/langgenius/dify) from scratch
 - [Dify Creators Center](https://creators.dify.ai) - For users to submit their templates and plugins to the Marketplace, also built from scratch
 
-⭐️: 活跃维护
+⭐️: Active
 
 #### For fun
 
@@ -46,7 +46,7 @@
     - 2025.7 ~ 2026.8 | Backend Engineer
   - [@langbot-app](https://github.com/langbot-app) | 2022.12 ~ ⭐️ | Founder
 
-⭐️: 至今
+⭐️: Currently
 </details>
 
 <details>
