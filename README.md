@@ -52,7 +52,7 @@
 <details>
 <summary> <strong>📊 GITHUB STATS </strong></summary>
   
-[![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/RockChinQ)](https://githubroast.icu/u/RockChinQ)
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/rockchinq?lang=zh)](https://ghfind.com/u/rockchinq?ref=badge)
 
 <p>
   <img align="center" width="420em" src="https://github-readme-stats.vercel.app/api?username=RockChinQ&title_color=fa4694&count_private=true&theme=jolly" alt="RockChinQ" />
